@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,115.062,-67.691,0.0,top
+J1,Conn_01x04_Male,JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,107.061,-64.897,-90.0,bottom
+J2,Conn_01x03_Male,JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical,123.105,-69.818,90.0,bottom
+U1,B3K-T13L,Omron B3K-T13L,108.307,-60.809,0.0,top

@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+Conn_01x03_Male,J2,JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical,
+Conn_01x04_Male,J1,JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,
+WS2812B,D1,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,
+B3K-T13L,U1,Omron B3K-T13L,
