@@ -11,7 +11,8 @@
 **Assembly**
 - Order the pcb at e.g. [pcbway](https://www.pcbway.com/project/shareproject/G_Code_Button_PCB_for_Agent_Cain_s_Gcode_Buttons_28c76498.html) or [jlcpcb](https://jlcpcb.com/)
     - Or just contact me via Discord "Gi7mo!#4618" i stil have some assembled boards left from my prototyping
-- Order the buttons at e.g. [aliexpress](https://de.aliexpress.com/item/32953584375.html)
+- Order the buttons at e.g. [aliexpress](https://s.click.aliexpress.com/e/_DDhs1G3)
+- Order the PH connectors at e.g. [aliexpress(https://s.click.aliexpress.com/e/_DdgpLUT)
 - Assemble the PCB, the led is solderable by hand with a fine tip
 - Wire up the pcbs to your controller
     - You can wire multiple pcb's in series, just go from data out (DO) to data in (DI) and expose only the switch (SW) cable for every pcb to your controller
