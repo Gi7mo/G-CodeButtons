@@ -1,12 +1,12 @@
 **G-Code Button PCB for [Agent Cain's Gcode Buttons](https://github.com/Agent-Cain/VoronUsers/tree/Voron-2_RGB_G-Code_Button/printer_mods/Agent-Cain/rgb_gcode-button)**
 
 **BOM**
-|Part NO.  |Qty  |LCSC  |
-|--|--|--|
-| Conn_01x03 | 1 | C131339 |
-| Conn_01x04 | 1 | C131334 |
-| WS2812-2020 | 1 | C114586 |
-| ROMER_G | 1 | --- |
+|Part NO.  |Qty  |LCSC  |Ali|
+|--|--|--|--|
+| Conn_01x03 | 1 | C131339 |[Link](https://s.click.aliexpress.com/e/_DlHystD)|
+| Conn_01x04 | 1 | C131334 |[Link](https://s.click.aliexpress.com/e/_DlHystD)|
+| WS2812-2020 | 1 | C114586 | |
+| ROMER_G | 1 | --- |[Link](https://s.click.aliexpress.com/e/_DDhs1G3)|
 
 **Assembly**
 - Order the pcb at e.g. [pcbway](https://www.pcbway.com/project/shareproject/G_Code_Button_PCB_for_Agent_Cain_s_Gcode_Buttons_28c76498.html) or [jlcpcb](https://jlcpcb.com/)
@@ -35,6 +35,7 @@ press_gcode:
 ```
 - ![assembled](Images/assembled.png)
 - ![bottom](Images/bottom.png)
+- ![skirt](Images/skirt.jpg)
 
 ## Troubleshooting
 - Problem: My Leds showing Random colors
