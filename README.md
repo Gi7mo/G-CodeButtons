@@ -5,7 +5,7 @@
 |--|--|--|--|
 | Conn_01x03 | 1 | C131339 |[Link](https://s.click.aliexpress.com/e/_DlHystD)|
 | Conn_01x04 | 1 | C131334 |[Link](https://s.click.aliexpress.com/e/_DlHystD)|
-| WS2812-2020 | 1 | C114586 | |
+| WS2812-5050 | 1 | C114586 |[Link](https://s.click.aliexpress.com/e/_DCDujNX)|
 | ROMER_G | 1 | --- |[Link](https://s.click.aliexpress.com/e/_DEeJCu3)|
 
 **Assembly**
